@@ -1,0 +1,14 @@
+{
+  "backend": {
+    "ic": "rrkah-fqaaa-aaaaa-aaaaq-cai"
+  },
+  "nftminter": {
+    "ic": "jy7jz-4yaaa-aaaai-qicma-cai"
+  },
+  "nftminter_assets": {
+    "ic": "j76pn-raaaa-aaaai-qicmq-cai"
+  },
+  "www": {
+    "ic": "ryjl3-tyaaa-aaaaa-aaaba-cai"
+  }
+}
